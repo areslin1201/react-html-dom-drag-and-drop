@@ -5,6 +5,7 @@ import Layout from './components/Layout'
 import App from './App';
 import Zone from './Zone';
 import reportWebVitals from './reportWebVitals';
+import 'antd/dist/antd.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
